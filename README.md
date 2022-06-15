@@ -4,10 +4,7 @@ XCVE THIS IS TOOL CONNECT TO " CVE.MITRE.ORG " TO DO FAST SEARCH ON CVE ID
 
 ## What Does The Tool Support?
 
-- [X] GOOGLE HACKING DATABASE
-- [X] (.onion) DORK SEARCH
-- [X] PAGE NUMBER
-- [X] LEARN DORK COMMAND
+- [X] CVE DATA
 
 <img src = 'https://raw.githubusercontent.com/XAMFRA/XCVE/main/sCapture.PNG' width='40%'/><img src = 'https://raw.githubusercontent.com/XAMFRA/XCVE/main/Cadpture.PNG' width='50%'/>
 
